@@ -86,8 +86,7 @@ function App() {
             <ErrorBoundary>
             <div className="relative">
               <Overlay {...this.props} {...this.state} />
-                {/* Whyy is this image not displaying ??? */}
-                <img src={require("./images/" + this.props.image).default} className="db" />
+                <img src={"/images/" + this.props.image} className="db" />
             </div>
             </ErrorBoundary>
         </div>
