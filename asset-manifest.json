@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/lost-in-tokyo/static/css/main.1d9a8173.css",
+    "main.js": "/lost-in-tokyo/static/js/main.c92f75b8.js",
+    "static/js/787.1a48cc9f.chunk.js": "/lost-in-tokyo/static/js/787.1a48cc9f.chunk.js",
+    "static/media/logo.svg": "/lost-in-tokyo/static/media/logo.9ce4e1e66bd38101900ddcf78c7da985.svg",
+    "static/media/zigzag.svg": "/lost-in-tokyo/static/media/zigzag.6710b7f1e08f241a11a2.svg",
+    "static/media/wave.svg": "/lost-in-tokyo/static/media/wave.bb1101742b6fc8126a32.svg",
+    "index.html": "/lost-in-tokyo/index.html",
+    "main.1d9a8173.css.map": "/lost-in-tokyo/static/css/main.1d9a8173.css.map",
+    "main.c92f75b8.js.map": "/lost-in-tokyo/static/js/main.c92f75b8.js.map",
+    "787.1a48cc9f.chunk.js.map": "/lost-in-tokyo/static/js/787.1a48cc9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d9a8173.css",
+    "static/js/main.c92f75b8.js"
+  ]
+}
