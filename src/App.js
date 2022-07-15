@@ -102,7 +102,7 @@ function App() {
               <Overlay {...this.props} {...this.state} />
                 {/* Construct image file path from public directory
                     add image name sourced from attractions data */}
-                <img src={"/images/" + this.props.image} className="db" />
+                <img src={"images/" + this.props.image} className="db" />
             </div>
             </ErrorBoundary>
         </div>
