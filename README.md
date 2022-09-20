@@ -1,3 +1,9 @@
+# Intro
+
+This is the first project I completed from the SuperHi ReactJS course.
+
+Here we learned how to write less code by generating similar components from a list of data. This is an extremely useful skill that I have taken to every other React project I've worked on since.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
